@@ -121,6 +121,12 @@ body{
     height: 100vh;
 }
 
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
 /* === responsive css === */
 
 @media only screen and (min-width: 768px) and (max-width:991px){
